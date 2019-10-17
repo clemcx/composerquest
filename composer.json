@@ -1,0 +1,11 @@
+{
+    "name": "clemence/composer_quest",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "clemcx",
+            "email": "clemencecaux@gmail.com"
+        }
+    ],
+    "require": {}
+}
